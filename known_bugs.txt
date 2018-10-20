@@ -1,0 +1,4 @@
+ - +4's not registering as valid selections
+ 
+ - any card can be played after the colour has been 
+   changed by a wildcard
